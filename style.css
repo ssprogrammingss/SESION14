@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 header{
-    background-color: #333 ;
+    background-color: #33333309 ;
     color: white;
     padding: 1em 0;
     width: 100%;
@@ -37,7 +37,7 @@ nav ul li a{
     padding: 0.5em 1em;
 }
 nav ul li a:hover{
-    background-color: #5555552c;
+    background-color: #333;
 }
 #home{
     height: 100vh;
