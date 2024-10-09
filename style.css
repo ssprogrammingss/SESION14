@@ -37,7 +37,7 @@ nav ul li a{
     padding: 0.5em 1em;
 }
 nav ul li a:hover{
-    background-color: #3333339f;
+    background-color: #555;
 }
 #home{
     height: 100vh;
